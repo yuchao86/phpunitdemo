@@ -1,5 +1,14 @@
 <?php
-
+/**
+ *
+ * @author Yu Chao <yuchao86@gmail.com>
+ * @package default
+ * @version v1.0
+ * @license  GPL
+ * @see
+ *  -web Links
+ *  https://phpunit.de/
+ */
 //编写测试用例类，这个类引入了PHPUnit.php和待测试的计算器类，然后初始化待测试类，编写断言。
 
 require_once("Add.php"); 
